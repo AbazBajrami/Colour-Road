@@ -5,7 +5,7 @@ Programme Name: Colour Road (Inspiration for this project is Crossy Road)
 
 Description:
 You are a green circle that has to cross 2 roads and reach the end of the map in order to win
-You have to dodge the red circles. If you get hit by one you turn red and die.
+There are red circles driving on the road that you need to dodge. If you get hit by one you turn red and die.
 
 The game background was coded by me. See Background
 
